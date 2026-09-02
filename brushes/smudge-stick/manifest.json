@@ -1,0 +1,31 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.brush-smudge-stick",
+  "name": "Smudge Stick",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "CC0-1.0",
+  "compat": ">=0.1",
+  "description": "An elongated smear for dragging and blending charcoal or chalk. Rotate with angle.",
+  "author": "HereLiesAz",
+  "targetApps": [
+    "com.hereliesaz.graffux"
+  ],
+  "assets": [
+    {
+      "type": "brush",
+      "path": "assets/tip.png",
+      "tags": [
+        "charcoal",
+        "smudge",
+        "drag"
+      ],
+      "params": {
+        "spacing": 0.04,
+        "angle": 0,
+        "roundness": 0.26,
+        "flowByPressure": true
+      }
+    }
+  ]
+}

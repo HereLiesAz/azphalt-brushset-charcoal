@@ -1,0 +1,9 @@
+{
+  "name": "@azphalt/azphalt-brush-charcoal-and-chalk",
+  "version": "1.0.0",
+  "description": "4 azphalt brush packages: Soft Charcoal, Hard Chalk, Smudge Stick, Conté Crayon.",
+  "private": false,
+  "scripts": {
+    "build": "node build.js"
+  }
+}

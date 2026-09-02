@@ -1,0 +1,31 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.brush-conte-crayon",
+  "name": "Conté Crayon",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "CC-BY-4.0",
+  "compat": ">=0.1",
+  "description": "A faceted crayon tip with a cross-hatched grain. Rotate with the angle param.",
+  "author": "HereLiesAz",
+  "targetApps": [
+    "com.hereliesaz.graffux"
+  ],
+  "assets": [
+    {
+      "type": "brush",
+      "path": "assets/tip.png",
+      "tags": [
+        "crayon",
+        "hatch",
+        "facet"
+      ],
+      "params": {
+        "spacing": 0.05,
+        "angle": 0,
+        "roundness": 0.58,
+        "flowByPressure": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.brush-soft-charcoal",
+  "name": "Soft Charcoal",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "CC0-1.0",
+  "compat": ">=0.1",
+  "description": "A broad, soft-edged charcoal stick with heavy grain.",
+  "author": "HereLiesAz",
+  "targetApps": [
+    "com.hereliesaz.graffux"
+  ],
+  "assets": [
+    {
+      "type": "brush",
+      "path": "assets/tip.png",
+      "tags": [
+        "charcoal",
+        "soft",
+        "grain"
+      ],
+      "params": {
+        "spacing": 0.08,
+        "roundness": 1,
+        "flowByPressure": true
+      }
+    }
+  ]
+}
